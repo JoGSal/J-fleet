@@ -8,6 +8,12 @@
    <iframe src="https://www.youtube.com/embed/1VNvg3_drow" allowfullscreen></iframe>
 </div>
 
+### Gentle Introduction to Queries and Osquery
+
+If you are new to using queries and osquery, start with the basics. Queries in Fleet allow you to ask a multitude of questions to help you manage, monitor, and identify threats on your devices. 
+
+For beginners, it's helpful to review some common queries available in Fleet's query library to understand how they work and what kind of data they can retrieve.
+
 ## Create a query
 
 Queries in Fleet allow you to ask a multitude of questions to help you manage, monitor, and identify threats on your devices. 
