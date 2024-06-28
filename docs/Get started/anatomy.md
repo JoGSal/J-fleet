@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: space-between; margin: 10px 0;">
+  <a href="https://fleetdm.com/docs/get-started/why-fleet" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="https://fleetdm.com/docs/get-started/tutorials-and-guides" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
+</div>
+
 # Anatomy
 This page details the core concepts you need to know to use Fleet.
 
@@ -42,3 +47,7 @@ Host vitals are the hard-coded queries Fleet uses to populate device details.
 An inventory of each host’s installed software, including information about detected vulnerabilities (CVEs).
 
 <meta name="pageOrderInSection" value="200">
+
+<div style="display: flex; justify-content: space-between; margin: 10px 0;">
+  <a href="https://fleetdm.com/docs/get-started/why-fleet" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="https://fleetdm.com/docs/get-started/tutorials-and-guides" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
