@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: space-between; margin: 10px 0;">
+  <a href="https://fleetdm.com/docs/get-started/anatomy" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="https://fleetdm.com/docs/get-started/faq" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
+  
 # Tutorials and guides
 
 A collection of guides to help you get up and running with Fleet.
@@ -69,3 +73,7 @@ A collection of guides to help you get up and running with Fleet.
 
 <meta name="description" value="Links to deployment tutorials and guides for using Fleet.">
 <meta name="pageOrderInSection" value="300">
+
+<div style="display: flex; justify-content: space-between; margin: 10px 0;">
+  <a href="https://fleetdm.com/docs/get-started/anatomy" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Previous</a>
+  <a href="https://fleetdm.com/docs/get-started/faq" style="padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
