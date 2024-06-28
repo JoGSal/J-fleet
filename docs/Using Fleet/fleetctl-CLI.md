@@ -66,9 +66,16 @@ OPTIONS:
    --help, -h        show help (default: false)
 ```
 
+
+### Notice: No Centralized Logging
+
+   Please note that there is no centralized logging until you activate separate logging infrastructure. Logs are currently stored on the device. Configure your logging infrastructure to centralize logs for better management and analysis.
+   
 ## Authentication
 
 This section walks you through authentication, assuming you already have a running Fleet instance. To learn how to set up new Fleet instance, check out the [Deploy](https://fleetdm.com/docs/deploy/introduction) section or [Building Fleet locally](https://github.com/fleetdm/fleet/blob/main/docs/Contributing/Building-Fleet.md) docs. 
+
+ 
 
 ### Login
 
