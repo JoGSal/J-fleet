@@ -1,3 +1,4 @@
+<a href="https://fleetdm.com/docs/get-started/anatomy" style="display: block; margin: 10px 0; padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
 # Why Fleet
 
 ## What's it for?
@@ -70,3 +71,5 @@ Small, iterative, simple (boring) changes are the easiest to merge. -->
 We have answers to the most [common questions](https://fleetdm.com/docs/get-started/faq).
 
 <meta name="pageOrderInSection" value="100">
+
+<a href="https://fleetdm.com/docs/get-started/anatomy" style="display: block; margin: 10px 0; padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
