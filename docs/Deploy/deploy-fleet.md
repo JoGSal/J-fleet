@@ -22,7 +22,7 @@ Deploy to Render for an easy one-click proof of concept. Or, choose AWS with Ter
 <h2 id="render">Deploy to Render in 5 minutes</h2>
 
 
-Render is a cloud hosting service that makes it easy to get up and running fast, without the typical configuration headaches of larger enterprise hosting providers.
+Render is a cloud hosting service that makes it easy to get up and running fast, without the typical configuration headaches of larger enterprise hosting providers. [Learn more about Render:](https://render.com/).
 
 <div purpose="embedded-content">
    <iframe src="https://www.youtube.com/embed/hly0tAOqveA?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -66,13 +66,13 @@ This workflow takes about 30 minutes to complete and supports between 10 and 350
 
 ### Prerequisites
 
-- A new or existing Amazon Web Services (AWS) account
+- A new or existing [Amazon Web Services (AWS) account](https://aws.amazon.com/)
 
-- An AWS Identity and Access Management (IAM) user with administrator privileges
+- An [AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started.html) (IAM) user with administrator privileges
 
-- The latest version of AWS Command Line Interface `awscli`
+- The latest version of [AWS Command Line Interface](https://aws.amazon.com/cli/) `awscli`
 
-- The latest version of HashiCorp Terraform
+- The latest version of [HashiCorp Terraform](https://www.terraform.io/)
 
 - A Fully-Qualified Domain Name (FQDN) for hosting Fleet
 
