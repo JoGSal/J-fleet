@@ -1,3 +1,5 @@
+<a href="https://fleetdm.com/docs/get-started/tutorials-and-guides" style="display: block; margin: 10px 0; padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Previous</a>
+
 # FAQ
 
 ## Can you host Fleet for me?
@@ -708,3 +710,5 @@ Finally, "shard" has been retired as an option for queries. In its place, we rec
 
 
 <meta name="description" value="Commonly asked questions and answers about deployment from the Fleet community.">
+
+<a href="https://fleetdm.com/docs/get-started/tutorials-and-guides" style="display: block; margin: 10px 0; padding: 10px 20px; background-color: #28a745; color: white; text-align: center; text-decoration: none; border-radius: 5px;">Previous</a>
