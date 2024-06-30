@@ -22,7 +22,7 @@ Deploy to Render for an easy one-click proof of concept. Or, choose AWS with Ter
 <h2 id="render">Deploy to Render in 5 minutes</h2>
 
 
-Render is a cloud hosting service that makes it easy to get up and running fast, without the typical configuration headaches of larger enterprise hosting providers. [Learn more about Render:](https://render.com/).
+Render is a cloud hosting service that makes it easy to get up and running fast, without the typical configuration headaches of larger enterprise hosting providers. [Learn more about Render:](https://docs.render.com/).
 
 <div purpose="embedded-content">
    <iframe src="https://www.youtube.com/embed/hly0tAOqveA?rel=0" frameborder="0" allowfullscreen></iframe>
